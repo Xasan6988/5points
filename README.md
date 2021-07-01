@@ -1,3 +1,6 @@
-## 5 points
+# 5 points
 
-# Решение задачки из учебника на JavaScript
+## Решение задачки из учебника на JavaScript
+
+-HTML
+-JavaScript
