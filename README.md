@@ -2,5 +2,5 @@
 
 ## Решение задачки из учебника на JavaScript
 
--HTML
--JavaScript
+- HTML
+- JavaScript
